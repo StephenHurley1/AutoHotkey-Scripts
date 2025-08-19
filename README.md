@@ -3,4 +3,4 @@ A collection of AutoHotkey scripts for various functions, working on Windows 10 
 <br/>
 ## Example: open task view with a single key press
 
-<img src="images/task_view.avif" width="600"/>
+<img src="Readme/task_view.avif" width="600"/>
